@@ -1,0 +1,12 @@
+{
+  "action": "BUY",
+  "ticker": "AAPL",
+  "qty": 5,
+  "destination": "internal",
+  "token": {
+    "allowed_actions": ["BUY"],
+    "ticker_scope": ["AAPL"],
+    "max_qty": 10,
+    "destination_scope": "internal"
+  }
+}w
